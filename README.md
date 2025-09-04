@@ -14,7 +14,7 @@ O programa:
    - Altura (em metros)
    - Peso (em kg)
 
-2. Integrantes:
+2. Integrantes do grupo 5:
    - Emanoel Rosa (1136489)
    - Guilherme Tadeu Castellani (1136257)
    - Pedro Bartz (1135935)
